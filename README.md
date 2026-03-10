@@ -141,7 +141,7 @@ Open to exciting projects and meaningful collaborations
 
 <td width="50%">
 
-<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=tanvir-22&theme=neon&hide_border=false" alt="GitHub Streak" />
+<img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=tanvir-22&theme=react&hide_border=false" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -238,6 +238,7 @@ Open to exciting projects and meaningful collaborations
 <sub>Built with 🎉 by Tanvir Rahman | Last Updated: March 2026</sub>
 
 </div>
+
 
 
 
