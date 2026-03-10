@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ```javascript
 const Tanvir = {
@@ -46,7 +46,7 @@ const mission = () => {
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 What I Do
 
@@ -238,6 +238,7 @@ Open to exciting projects and meaningful collaborations
 <sub>Built with 🎉 by Tanvir Rahman | Last Updated: March 2026</sub>
 
 </div>
+
 
 
 
