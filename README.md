@@ -148,7 +148,7 @@ Open to exciting projects and meaningful collaborations
 <tr>
 <td colspan="2" align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-22&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-22&theme=react&layout=compact" alt="Top Languages" />
 
 </td>
 </tr>
@@ -238,6 +238,7 @@ Open to exciting projects and meaningful collaborations
 <sub>Built with 🎉 by Tanvir Rahman | Last Updated: March 2026</sub>
 
 </div>
+
 
 
 
