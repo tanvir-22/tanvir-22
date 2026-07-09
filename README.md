@@ -23,50 +23,39 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```javascript
 const Tanvir = {
     location: "📍 Dhaka, Bangladesh",
     role: "Undergraduate Student",
     education: "BSc in CSE - North South University",
     experience: "Fresher",
-    specialization: ["MERN Stack", "Web Development", "DSA","Machine Learning"],
+    specialization: ["MERN Stack", "Web Development", "DSA", "Machine Learning"],
     currentlyLearning: ["Data Structures", "Algorithms"],
-    hobbies: ["Building Projects","Reading", "Watching Movies","Playing Video Games" ]
+    hobbies: ["Building Projects", "Reading", "Watching Movies", "Playing Video Games"]
 };
 
 // My Mission
 const mission = () => {
     return "My mission is to use code to create, innovate, 
-        and make a positive difference in people’s lives.";
+        and make a positive difference in people's lives.";
 };
 ```
 
-</td>
-<td width="50%" valign="top">
-
 ### 🎯 What I Do
 
+💡 **Create & Innovate**
+: Building impactful and user-friendly web applications with MERN stack
 
+🔍 **Learn & Experiment**
+: Exploring new technologies and staying ahead in the tech world
 
-💡 **Create & Innovate**  
-Building impactful and user-friendly web applications with MERN stack
+🌱 **Evolve Continuously**
+: Sharpening skills in Data Structures, Algorithms, and problem-solving
 
-🔍 **Learn & Experiment**  
-Exploring new technologies and staying ahead in the tech world
+🤝 **Collaborate & Contribute**
+: Open to exciting projects and meaningful collaborations
 
-🌱 **Evolve Continuously**  
-Sharpening skills in Data Structures, Algorithms, and problem-solving
-
-🤝 **Collaborate & Contribute**  
-Open to exciting projects and meaningful collaborations
-
-</td>
-</tr>
-</table>
+---
 
 ---
 
@@ -188,7 +177,6 @@ Open to exciting projects and meaningful collaborations
 ### 💻 Coding Platforms
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/TANVIR_2022)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shafinr14)
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanvir.exe)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/tanvirrahmanmazumder)
